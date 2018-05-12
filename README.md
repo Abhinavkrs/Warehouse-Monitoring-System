@@ -3,7 +3,7 @@ series of shelves with confined boxes. All the fruits and vegetable will be segr
 accordingly. Threshold values for all the sensors will be fixed from the test case analysis. This will play a
 very important in creating of emergency system for the monitoring.
 
-All the sensors will be interfaced on microcontroller. At the entry of the warehouse, EM18 will be fitted
+All the sensors will be interfaced to microcontroller. At the entry of the warehouse, EM18 will be fitted
 which will act as security system at the entrance. For a person to enter the warehouse, needs an identity
 card which if matches with a permitted individual database, allows that person in warehouse.
 Inside the warehouse, all the fruits and vegetable are arranged according to certain criteria. The person can
